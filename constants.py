@@ -1,0 +1,1 @@
+dbstring = 'mssql+pyodbc://client:root@20.159.218.61,1433/L3Harris?driver=ODBC+Driver+18+for+SQL+Server&TrustServerCertificate=yes'
